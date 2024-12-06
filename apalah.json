@@ -1,7 +1,5 @@
 {
-  "users": [
-    {
-      "password": "Test"
-    }
+  "allowedIPs": [
+    "165.227.181.220"
   ]
 }
